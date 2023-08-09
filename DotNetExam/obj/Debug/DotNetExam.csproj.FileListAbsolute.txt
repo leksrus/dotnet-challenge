@@ -1,0 +1,12 @@
+C:\dotnet\DotNetExam\bin\Debug\DotNetExam.exe.config
+C:\dotnet\DotNetExam\bin\Debug\DotNetExam.exe
+C:\dotnet\DotNetExam\bin\Debug\DotNetExam.pdb
+C:\dotnet\DotNetExam\bin\Debug\EntityFramework.dll
+C:\dotnet\DotNetExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\dotnet\DotNetExam\bin\Debug\EntityFramework.xml
+C:\dotnet\DotNetExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\dotnet\DotNetExam\obj\Debug\DotNetExam.csproj.AssemblyReference.cache
+C:\dotnet\DotNetExam\obj\Debug\DotNetExam.csproj.CoreCompileInputs.cache
+C:\dotnet\DotNetExam\obj\Debug\DotNetExam.csproj.CopyComplete
+C:\dotnet\DotNetExam\obj\Debug\DotNetExam.exe
+C:\dotnet\DotNetExam\obj\Debug\DotNetExam.pdb
